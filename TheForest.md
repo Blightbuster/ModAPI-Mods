@@ -31,3 +31,11 @@
 
 **John Dederer**
 - [Blueprints](https://github.com/john-dederer/Blueprints)
+
+**Souldrinker**
+- [Cheat Menu](https://github.com/FluffyFishGames/ModAPI-The-Forest-Mods/tree/master/CheatMenu)
+- [Dev Picker](https://github.com/FluffyFishGames/ModAPI-The-Forest-Mods/tree/master/DevPicker)
+- [Map](https://github.com/FluffyFishGames/ModAPI-The-Forest-Mods/tree/master/Map)
+- [Remove Buildings](https://github.com/FluffyFishGames/ModAPI-The-Forest-Mods/tree/master/RemoveBuildings)
+- [Save Everywhere](https://github.com/FluffyFishGames/ModAPI-The-Forest-Mods/tree/master/SaveEverywhere)
+- [Spawn Command](https://github.com/FluffyFishGames/ModAPI-The-Forest-Mods/tree/master/SpawnCommand)
