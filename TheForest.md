@@ -18,11 +18,27 @@
 - [Builder Core](https://github.com/Hazardu/BuilderCore)
 - [Builder Menu](https://github.com/Hazardu/BuilderMenu)
 - [Champions of Forest](https://github.com/Hazardu/ChampionsOfForest)
+- [COTF Twitch Integration](https://github.com/Hazardu/COTFTwitchIntegration)
 - [Damage Numbers](https://github.com/Hazardu/DamageNumbers)
 - [Grass-Settings](https://github.com/Hazardu/Grass-Settings)
 - [Harder More Enemies](https://github.com/Hazardu/HarderMoreEnemies)
+- [Modapi Twitch Integration](https://github.com/Hazardu/ModAPITwitchIntegration)
 - [Player Upgrade Points](https://github.com/Hazardu/PlayerUpgradePoints)
+- [The Forest Twitch Integration](https://github.com/Hazardu/TheForestTwitchIntegration)
 - [Tokyo-Drift](https://github.com/Hazardu/Tokyo-Drift)
+
+**Immaanuel**
+- [ModManager](https://dev.azure.com/dragonlegion/ModManager)
+- [ModConstructions](https://dev.azure.com/dragonlegion/ModConstructions)
+- [ModShelter](https://dev.azure.com/dragonlegion/ModShelter)
+- [ModCrafting](https://dev.azure.com/dragonlegion/ModCrafting)
+- [ModHunter](https://dev.azure.com/dragonlegion/ModHunter)
+- [ModMiner](https://dev.azure.com/dragonlegion/ModMiner)
+- [ModQuickEquip](https://dev.azure.com/dragonlegion/ModQuickEquip)
+- [ModTeleporter](https://dev.azure.com/dragonlegion/ModTeleporter)
+- [ModTime](https://dev.azure.com/dragonlegion/ModTime)
+- [ModTools](https://dev.azure.com/dragonlegion/ModTools)
+- [CommunityTools](https://dev.azure.com/dragonlegion/CommunityTools)
 
 **Hellsing**
 - [Block Focus Attack](https://github.com/Hellsing/ModAPI-Mods/tree/master/BlockFocusAttack)
